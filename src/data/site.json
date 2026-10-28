@@ -1,0 +1,265 @@
+{
+  "brand": {
+    "name": "PROEM",
+    "latin": "PROEM",
+    "tagline": "A place to look differently",
+    "fictional": true
+  },
+  "editorialDate": "2026-10-27",
+  "language": "en",
+  "timezone": null,
+  "routes": [
+    {
+      "path": "/",
+      "title": "Home"
+    },
+    {
+      "path": "/exhibitions",
+      "title": "Exhibitions"
+    },
+    {
+      "path": "/exhibitions/between-states",
+      "title": "Between States"
+    },
+    {
+      "path": "/works",
+      "title": "Works"
+    },
+    {
+      "path": "/space",
+      "title": "Space"
+    },
+    {
+      "path": "/visit",
+      "title": "Visit"
+    }
+  ],
+  "visit": {
+    "daysOpen": [
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "open": "11:00",
+    "close": "19:00",
+    "lastEntry": "18:30",
+    "closed": [
+      "Mon"
+    ],
+    "admission": "free",
+    "conceptAddress": "Block 04, 12 Embankment",
+    "email": "hello@proem.example"
+  },
+  "exhibitions": [
+    {
+      "id": "EX01",
+      "slug": "between-states",
+      "title": "Between States",
+      "start": "2026-09-12",
+      "end": "2026-11-22",
+      "status": "current",
+      "hero": "04-room01-fabric",
+      "workIds": [
+        "work-fabric",
+        "work-acrylic",
+        "work-ceramics",
+        "work-paper",
+        "work-light"
+      ]
+    },
+    {
+      "id": "EX02",
+      "title": "Color Takes Up Space",
+      "start": "2026-12-05",
+      "end": "2027-01-31",
+      "status": "upcoming",
+      "hero": "05-room02-acrylic"
+    },
+    {
+      "id": "EX03",
+      "title": "Folds of Silence",
+      "start": "2026-04-18",
+      "end": "2026-06-21",
+      "status": "archive",
+      "hero": "09-paper-relief"
+    },
+    {
+      "id": "EX04",
+      "title": "Gathered Light",
+      "start": "2026-01-10",
+      "end": "2026-03-15",
+      "status": "archive",
+      "hero": "06-room03-light"
+    }
+  ],
+  "events": [
+    {
+      "id": "E01",
+      "title": "How to Look at the Transparent",
+      "date": "2026-10-31",
+      "start": "16:00",
+      "end": "16:45",
+      "capacity": 12,
+      "minimumAge": null,
+      "description": "A walking conversation through the three rooms about fabric, colored shadows and empty space. Free admission, no booking."
+    },
+    {
+      "id": "E02",
+      "title": "Folding Light",
+      "date": "2026-11-07",
+      "start": "14:00",
+      "end": "15:00",
+      "capacity": 8,
+      "minimumAge": 12,
+      "description": "A free paper-relief workshop. Materials provided; places on a first-come basis."
+    },
+    {
+      "id": "E03",
+      "title": "An Unhurried Hour",
+      "date": "2026-11-04",
+      "start": "11:00",
+      "end": "12:00",
+      "capacity": null,
+      "minimumAge": null,
+      "description": "A quiet hour without groups or background sound. Steady soft lighting; folding chairs available in the lobby."
+    }
+  ],
+  "plan": {
+    "width": 24,
+    "depth": 18,
+    "north": "top",
+    "entrance": [
+      12,
+      18
+    ],
+    "lobby": [
+      0,
+      12,
+      24,
+      6
+    ],
+    "desk": [
+      1,
+      14,
+      4,
+      2
+    ],
+    "accessibleWC": [
+      20,
+      14,
+      4,
+      4
+    ],
+    "doorsFromLobby": [
+      [
+        4,
+        12
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        20,
+        12
+      ]
+    ],
+    "sideDoors": [
+      [
+        8,
+        6
+      ],
+      [
+        16,
+        6
+      ]
+    ],
+    "rooms": [
+      {
+        "id": "01",
+        "name": "Air",
+        "rect": [
+          0,
+          0,
+          8,
+          12
+        ],
+        "image": "04-room01-fabric",
+        "workIds": [
+          "work-fabric"
+        ]
+      },
+      {
+        "id": "02",
+        "name": "Proximity",
+        "rect": [
+          8,
+          0,
+          8,
+          12
+        ],
+        "image": "05-room02-acrylic",
+        "workIds": [
+          "work-acrylic",
+          "work-ceramics",
+          "work-paper"
+        ]
+      },
+      {
+        "id": "03",
+        "name": "Trace",
+        "rect": [
+          16,
+          0,
+          8,
+          12
+        ],
+        "image": "06-room03-light",
+        "workIds": [
+          "work-light"
+        ]
+      }
+    ],
+    "route": [
+      [
+        12,
+        18
+      ],
+      [
+        12,
+        15
+      ],
+      [
+        4,
+        15
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        12,
+        6
+      ],
+      [
+        20,
+        6
+      ],
+      [
+        20,
+        15
+      ],
+      [
+        12,
+        15
+      ],
+      [
+        12,
+        18
+      ]
+    ]
+  }
+}

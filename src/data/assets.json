@@ -1,0 +1,797 @@
+[
+  {
+    "id": "01-exterior-day",
+    "file": "assets/architecture/01-exterior-day.png",
+    "title": "South facade / day",
+    "kind": "generated-photo",
+    "pages": [
+      "/space",
+      "/visit"
+    ],
+    "alt": "A single-story concrete facade with a deep central entrance, a birch on the left and a bench on the right.",
+    "fit": "cover",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1536,
+    "height": 1024,
+    "aspectRatio": 1.5,
+    "orientation": "landscape",
+    "bytes": 3398107,
+    "sha256": "97e316ca017356afd60017bbfb66ef2646128ca07df5fa66e065b84363975cd4",
+    "webFile": "assets/web/01-exterior-day.jpg",
+    "thumbsFile": "assets/thumbs/01-exterior-day.jpg",
+    "webBytes": 503209
+  },
+  {
+    "id": "02-exterior-dusk",
+    "file": "assets/architecture/02-exterior-dusk.png",
+    "title": "South facade / evening",
+    "kind": "generated-photo",
+    "pages": [
+      "/",
+      "/space"
+    ],
+    "alt": "The same facade on a blue evening; warm light pours from the central entrance.",
+    "fit": "cover",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1536,
+    "height": 1024,
+    "aspectRatio": 1.5,
+    "orientation": "landscape",
+    "bytes": 3241792,
+    "sha256": "a9c089148753bb516b63e59b04fb9637cc22c6edd364057f6eeb0f29de4ccae4",
+    "webFile": "assets/web/02-exterior-dusk.jpg",
+    "thumbsFile": "assets/thumbs/02-exterior-dusk.jpg",
+    "webBytes": 504169
+  },
+  {
+    "id": "03-lobby",
+    "file": "assets/architecture/03-lobby.png",
+    "title": "Lobby and three entrances",
+    "kind": "generated-photo",
+    "pages": [
+      "/space"
+    ],
+    "alt": "A concrete lobby with a desk on the left and three openings into the exhibition rooms.",
+    "fit": "cover",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1672,
+    "height": 941,
+    "aspectRatio": 1.7768,
+    "orientation": "landscape",
+    "bytes": 2190956,
+    "sha256": "4b44f56b5e2805b760273e52251dad79249aaa9a3998866c760bc405c0177a12",
+    "webFile": "assets/web/03-lobby.jpg",
+    "thumbsFile": "assets/thumbs/03-lobby.jpg",
+    "webBytes": 249246
+  },
+  {
+    "id": "04-room01-fabric",
+    "file": "assets/architecture/04-room01-fabric.png",
+    "title": "Room 01 / Air Holds Color",
+    "kind": "generated-photo",
+    "pages": [
+      "/",
+      "/exhibitions",
+      "/exhibitions/between-states"
+    ],
+    "alt": "Translucent coral, milk-white and blue fabrics hang in a concrete room; a visitor stands on the right.",
+    "fit": "cover",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1915,
+    "height": 821,
+    "aspectRatio": 2.3325,
+    "orientation": "landscape",
+    "bytes": 2065414,
+    "sha256": "56b76ad763b738777708527110115ad1df543e2ced86d2987af00685a60bbce2",
+    "webFile": "assets/web/04-room01-fabric.jpg",
+    "thumbsFile": "assets/thumbs/04-room01-fabric.jpg",
+    "webBytes": 189957
+  },
+  {
+    "id": "05-room02-acrylic",
+    "file": "assets/architecture/05-room02-acrylic.png",
+    "title": "Room 02 / Five Mismatches",
+    "kind": "generated-photo",
+    "pages": [
+      "/",
+      "/exhibitions",
+      "/exhibitions/between-states",
+      "/works"
+    ],
+    "alt": "Five colored acrylic planes cast colored shadows on the gallery floor.",
+    "fit": "cover",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1448,
+    "height": 1086,
+    "aspectRatio": 1.3333,
+    "orientation": "landscape",
+    "bytes": 2356899,
+    "sha256": "3d1fa0d7a0855eada0b1342faee5eef5ab4740311f4d45a9c82c3b82e4eea69a",
+    "webFile": "assets/web/05-room02-acrylic.jpg",
+    "thumbsFile": "assets/thumbs/05-room02-acrylic.jpg",
+    "webBytes": 277095
+  },
+  {
+    "id": "06-room03-light",
+    "file": "assets/architecture/06-room03-light.png",
+    "title": "Room 03 / Line of Presence",
+    "kind": "generated-photo",
+    "pages": [
+      "/exhibitions/between-states",
+      "/works",
+      "/space"
+    ],
+    "alt": "A red horizontal line, a white vertical and a blue field light a dark concrete room.",
+    "fit": "cover",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1672,
+    "height": 941,
+    "aspectRatio": 1.7768,
+    "orientation": "landscape",
+    "bytes": 1892278,
+    "sha256": "54b430e92bad9348545945fb88a6972427ed7e0094e52a7c28f22382d342319b",
+    "webFile": "assets/web/06-room03-light.jpg",
+    "thumbsFile": "assets/thumbs/06-room03-light.jpg",
+    "webBytes": 166318
+  },
+  {
+    "id": "07-textile-detail",
+    "file": "assets/architecture/07-textile-detail.png",
+    "title": "Fabric / detail",
+    "kind": "generated-photo",
+    "pages": [
+      "/exhibitions/between-states",
+      "/works"
+    ],
+    "alt": "Close-up of coral fabric: the weave, folds and an uneven edge are visible.",
+    "fit": "cover",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1024,
+    "height": 1536,
+    "aspectRatio": 0.6667,
+    "orientation": "portrait",
+    "bytes": 2933077,
+    "sha256": "fa7aa6f5115a01c49ac133a8c7d8f970f3d59df3f1126d31388d354466b29d0e",
+    "webFile": "assets/web/07-textile-detail.jpg",
+    "thumbsFile": "assets/thumbs/07-textile-detail.jpg",
+    "webBytes": 381315
+  },
+  {
+    "id": "08-ceramic-ensemble",
+    "file": "assets/architecture/08-ceramic-ensemble.png",
+    "title": "Seven Voices / ceramics",
+    "kind": "generated-photo",
+    "pages": [
+      "/exhibitions/between-states",
+      "/works"
+    ],
+    "alt": "Seven ceramic vessels of different sizes and colors stand on a milk-white plinth.",
+    "fit": "cover",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1254,
+    "height": 1254,
+    "aspectRatio": 1,
+    "orientation": "square",
+    "bytes": 1924685,
+    "sha256": "68db837636c242dbe4972bafaa1de7665fc84432801428a007988ee0a2c63629",
+    "webFile": "assets/web/08-ceramic-ensemble.jpg",
+    "thumbsFile": "assets/thumbs/08-ceramic-ensemble.jpg",
+    "webBytes": 180202
+  },
+  {
+    "id": "09-paper-relief",
+    "file": "assets/architecture/09-paper-relief.png",
+    "title": "Fold of Light / paper",
+    "kind": "generated-photo",
+    "pages": [
+      "/exhibitions/between-states",
+      "/works"
+    ],
+    "alt": "A white paper relief with deep folds and a narrow blue stripe in a wooden frame.",
+    "fit": "cover",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1024,
+    "height": 1536,
+    "aspectRatio": 0.6667,
+    "orientation": "portrait",
+    "bytes": 2368524,
+    "sha256": "1199ecf6233ea6829d1f46890d736185e4743e7bff3fdaa6d2925244bd643b6a",
+    "webFile": "assets/web/09-paper-relief.jpg",
+    "thumbsFile": "assets/thumbs/09-paper-relief.jpg",
+    "webBytes": 239617
+  },
+  {
+    "id": "10-building-plan",
+    "file": "assets/architecture/10-building-plan.png",
+    "title": "Single-floor plan",
+    "kind": "generated-plan",
+    "pages": [
+      "/space",
+      "/visit"
+    ],
+    "alt": "Plan: three rooms, 01, 02 and 03, above a shared lobby; entrance at the bottom center, desk on the left, restroom on the right.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "OpenAI built-in image generation",
+    "rights": "AI-generated project concept; no museum or real artist attribution",
+    "generated": true,
+    "width": 1536,
+    "height": 1024,
+    "aspectRatio": 1.5,
+    "orientation": "landscape",
+    "bytes": 2321371,
+    "sha256": "f879259abfe9f5ed53665affd85504d28a4fd2195065e9f897ec99bcb7420b10",
+    "webFile": "assets/web/10-building-plan.jpg",
+    "thumbsFile": "assets/thumbs/10-building-plan.jpg",
+    "webBytes": 272287
+  },
+  {
+    "id": "cma-143278",
+    "file": "assets/art/cma-143278.jpg",
+    "title": "Composition with Red, Yellow, and Blue",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Composition with Red, Yellow, and Blue — Piet Mondrian (Dutch, 1872–1944). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1967.215",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1967.215/1967.215_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1967.215",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 3352,
+    "height": 3400,
+    "aspectRatio": 0.9859,
+    "orientation": "square",
+    "bytes": 2816565,
+    "sha256": "d4c605557f89af2f1d55acc2b49a46dce12fa0c5715d4548039d6459abe6497c",
+    "webFile": "assets/web/cma-143278.jpg",
+    "thumbsFile": "assets/thumbs/cma-143278.jpg",
+    "webBytes": 379656
+  },
+  {
+    "id": "cma-156570",
+    "file": "assets/art/cma-156570.jpg",
+    "title": "Composition",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Composition — Otto Freundlich (German, 1878–1943). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1992.277",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1992.277/1992.277_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1992.277",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 2446,
+    "height": 3400,
+    "aspectRatio": 0.7194,
+    "orientation": "portrait",
+    "bytes": 1798186,
+    "sha256": "779d764ea042bb847f300cae617c658511fa3ae9be1a8b3b5b3f19b3ddc91520",
+    "webFile": "assets/web/cma-156570.jpg",
+    "thumbsFile": "assets/thumbs/cma-156570.jpg",
+    "webBytes": 214160
+  },
+  {
+    "id": "cma-715339",
+    "file": "assets/art/cma-715339.jpg",
+    "title": "Still Life",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Still Life — María Blanchard (Spanish, 1881–1932). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/2026.37",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/2026.37/2026.37_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "2026.37",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 2598,
+    "height": 3400,
+    "aspectRatio": 0.7641,
+    "orientation": "portrait",
+    "bytes": 4925717,
+    "sha256": "d7399da5e26b7c8ef6c6f78c4261a47906622283e402dc9f8c78c6bee00c7d40",
+    "webFile": "assets/web/cma-715339.jpg",
+    "thumbsFile": "assets/thumbs/cma-715339.jpg",
+    "webBytes": 675837
+  },
+  {
+    "id": "cma-144705",
+    "file": "assets/art/cma-144705.jpg",
+    "title": "Carnival in the Snow",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Carnival in the Snow — Paul Klee (German, 1879–1940). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1969.46",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1969.46/1969.46_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1969.46",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 1536,
+    "height": 1676,
+    "aspectRatio": 0.9165,
+    "orientation": "portrait",
+    "bytes": 2110163,
+    "sha256": "8777f4b6e8faab53b8382736f65e34caf54d799af283b730c120b9afaa00bb33",
+    "webFile": "assets/web/cma-144705.jpg",
+    "thumbsFile": "assets/thumbs/cma-144705.jpg",
+    "webBytes": 738040
+  },
+  {
+    "id": "cma-137078",
+    "file": "assets/art/cma-137078.jpg",
+    "title": "With the Dot",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "With the Dot — Paul Klee (German, 1879–1940). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1961.50",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1961.50/1961.50_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1961.50",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 3400,
+    "height": 2901,
+    "aspectRatio": 1.172,
+    "orientation": "landscape",
+    "bytes": 5566837,
+    "sha256": "ee43089d011ad599f4ef18d6fe4fa6fa246312fc6c36eb45c0aa818b1611e297",
+    "webFile": "assets/web/cma-137078.jpg",
+    "thumbsFile": "assets/thumbs/cma-137078.jpg",
+    "webBytes": 400208
+  },
+  {
+    "id": "cma-138684",
+    "file": "assets/art/cma-138684.jpg",
+    "title": "Little Dance",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Little Dance — Kurt Schwitters (German, 1887–1948). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1963.1",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1963.1/1963.1_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1963.1",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 2535,
+    "height": 3400,
+    "aspectRatio": 0.7456,
+    "orientation": "portrait",
+    "bytes": 2141669,
+    "sha256": "b3b9a075ca33f3f54f962f58d928af056901af83b1ca30f61ac7e9480315254f",
+    "webFile": "assets/web/cma-138684.jpg",
+    "thumbsFile": "assets/thumbs/cma-138684.jpg",
+    "webBytes": 332271
+  },
+  {
+    "id": "cma-159216",
+    "file": "assets/art/cma-159216.jpg",
+    "title": "Merz 3 Portfolio:  Plate 1",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Merz 3 Portfolio:  Plate 1 — Kurt Schwitters (German, 1887–1948). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1995.4",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1995.4/1995.4_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1995.4",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 2785,
+    "height": 3400,
+    "aspectRatio": 0.8191,
+    "orientation": "portrait",
+    "bytes": 2420057,
+    "sha256": "465479f697632b8528fdc213c3e74f4ab00dc2b6227ae4a88376be091c33a084",
+    "webFile": "assets/web/cma-159216.jpg",
+    "thumbsFile": "assets/thumbs/cma-159216.jpg",
+    "webBytes": 459037
+  },
+  {
+    "id": "cma-161433",
+    "file": "assets/art/cma-161433.jpg",
+    "title": "Play with Heads",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Play with Heads — Oskar Schlemmer (German, 1888–1943). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/2000.120",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/2000.120/2000.120_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "2000.120",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 2360,
+    "height": 3400,
+    "aspectRatio": 0.6941,
+    "orientation": "portrait",
+    "bytes": 2287774,
+    "sha256": "ac05ef79d70eaa4c44de84895cbc15c9e97e903fe68906cb7bd6cc15fa37cae0",
+    "webFile": "assets/web/cma-161433.jpg",
+    "thumbsFile": "assets/thumbs/cma-161433.jpg",
+    "webBytes": 411628
+  },
+  {
+    "id": "cma-138860",
+    "file": "assets/art/cma-138860.jpg",
+    "title": "Allo Paris:  Frontispiece to book",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Allo Paris:  Frontispiece to book — Robert Delaunay (French, 1885–1941). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1963.234",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1963.234/1963.234_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1963.234",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 2590,
+    "height": 3400,
+    "aspectRatio": 0.7618,
+    "orientation": "portrait",
+    "bytes": 7265776,
+    "sha256": "b72e0afb19b3f30ca776a2c9acbb62fda2e4c2c4180089af4691ff42d804c851",
+    "webFile": "assets/web/cma-138860.jpg",
+    "thumbsFile": "assets/thumbs/cma-138860.jpg",
+    "webBytes": 694197
+  },
+  {
+    "id": "cma-155039",
+    "file": "assets/art/cma-155039.jpg",
+    "title": "La Tour",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "La Tour — Robert Delaunay (French, 1885–1941). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1989.59",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1989.59/1989.59_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1989.59",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 2533,
+    "height": 3400,
+    "aspectRatio": 0.745,
+    "orientation": "portrait",
+    "bytes": 3748759,
+    "sha256": "441a953e0dbd8e85ff78cfe5b3a3269caf34bf8d2035a66e908064a54952e242",
+    "webFile": "assets/web/cma-155039.jpg",
+    "thumbsFile": "assets/thumbs/cma-155039.jpg",
+    "webBytes": 627777
+  },
+  {
+    "id": "cma-136519",
+    "file": "assets/art/cma-136519.jpg",
+    "title": "Mask of the Japanese Actress Hanako (Ohta Hisa)",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Mask of the Japanese Actress Hanako (Ohta Hisa) — Auguste Rodin (French, 1840–1917). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1960.90",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1960.90/1960.90_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1960.90",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 2906,
+    "height": 3400,
+    "aspectRatio": 0.8547,
+    "orientation": "portrait",
+    "bytes": 1913024,
+    "sha256": "945f7e91ab66fa084b37c93d7e7e316a2620779dc1272fe78896a3e74b511e94",
+    "webFile": "assets/web/cma-136519.jpg",
+    "thumbsFile": "assets/thumbs/cma-136519.jpg",
+    "webBytes": 349129
+  },
+  {
+    "id": "cma-98128",
+    "file": "assets/art/cma-98128.jpg",
+    "title": "Little Brother and Sister",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Little Brother and Sister — Auguste Rodin (French, 1840–1917). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1917.745",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1917.745/1917.745_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1917.745",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 3021,
+    "height": 3400,
+    "aspectRatio": 0.8885,
+    "orientation": "portrait",
+    "bytes": 1131707,
+    "sha256": "a818003eb72ec4fc7f77c4dc2cd7f53f288558bbbb28080dd5b79d1d64e17ead",
+    "webFile": "assets/web/cma-98128.jpg",
+    "thumbsFile": "assets/thumbs/cma-98128.jpg",
+    "webBytes": 196165
+  },
+  {
+    "id": "cma-160027",
+    "file": "assets/art/cma-160027.jpg",
+    "title": "Vase",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Vase — Jean-Charles-Hippolyte-Abel Leger (French); Sèvres Porcelain Factory (French, est. 1756). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1997.289",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1997.289/1997.289_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1997.289",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 1536,
+    "height": 1930,
+    "aspectRatio": 0.7959,
+    "orientation": "portrait",
+    "bytes": 1322649,
+    "sha256": "ed5c5f1648d708b03b6f91a12d5e734c1a0af0dfd18129178b68563d4dc04fa0",
+    "webFile": "assets/web/cma-160027.jpg",
+    "thumbsFile": "assets/thumbs/cma-160027.jpg",
+    "webBytes": 158983
+  },
+  {
+    "id": "cma-102980",
+    "file": "assets/art/cma-102980.jpg",
+    "title": "Textile fragment (Binakol)",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Textile fragment (Binakol) — Philippines, Ilokos, Norte Province, Luzon, 20th century(?). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1921.1596",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1921.1596/1921.1596_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1921.1596",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 2377,
+    "height": 3400,
+    "aspectRatio": 0.6991,
+    "orientation": "portrait",
+    "bytes": 7929455,
+    "sha256": "76b00a200eeadd4ce24ea1994b73b704b8c8726ebdc131c73beffcffbac91aa2",
+    "webFile": "assets/web/cma-102980.jpg",
+    "thumbsFile": "assets/thumbs/cma-102980.jpg",
+    "webBytes": 738957
+  },
+  {
+    "id": "cma-109638",
+    "file": "assets/art/cma-109638.jpg",
+    "title": "Je T'aime (No. 632)",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Je T'aime (No. 632) — Kneeland (Ruzzie) Green (American 1892–1956); Stehli Silks Corporation  (United States; Pennsylvania, Lancaster; and New York, New York, 1840–c. 1955). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1928.269",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1928.269/1928.269_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1928.269",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 1843,
+    "height": 3400,
+    "aspectRatio": 0.5421,
+    "orientation": "portrait",
+    "bytes": 6266281,
+    "sha256": "1f7c5eaef97874bb8d994dded1257cc8e82deae9f7d858e6f29463b7d6ff2495",
+    "webFile": "assets/web/cma-109638.jpg",
+    "thumbsFile": "assets/thumbs/cma-109638.jpg",
+    "webBytes": 586306
+  },
+  {
+    "id": "cma-146135",
+    "file": "assets/art/cma-146135.jpg",
+    "title": "Movement",
+    "kind": "museum-reproduction",
+    "pages": [
+      "/works"
+    ],
+    "alt": "Movement — Umberto Boccioni (Italian, 1882–1916). Museum reproduction.",
+    "fit": "contain",
+    "focalPoint": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://clevelandart.org/art/1971.38",
+    "downloadUrl": "https://openaccess-cdn.clevelandart.org/1971.38/1971.38_print.jpg",
+    "rights": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1971.38",
+    "checked": "2026-10-27",
+    "generated": false,
+    "width": 3400,
+    "height": 2617,
+    "aspectRatio": 1.2992,
+    "orientation": "landscape",
+    "bytes": 2704796,
+    "sha256": "c58cc3b5988eed5365ae032d1b644a24bb14f275ce6fe0df57ab7b889169fe42",
+    "webFile": "assets/web/cma-146135.jpg",
+    "thumbsFile": "assets/thumbs/cma-146135.jpg",
+    "webBytes": 436641
+  }
+]

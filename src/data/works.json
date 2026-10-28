@@ -1,0 +1,534 @@
+[
+  {
+    "id": "work-fabric",
+    "title": "Air Holds Color",
+    "material": "Translucent textile, suspensions, daylight",
+    "dimensions": "Three panels; size depends on the space",
+    "category": "Textile",
+    "images": [
+      "04-room01-fabric",
+      "07-textile-detail"
+    ],
+    "room": "01",
+    "hoverText": "Fabric becomes a wall that lets through both light and gaze.",
+    "description": "Three suspended panels set boundaries without dividing the room for good. The coral, milk-white and blue layers stay transparent: behind them you can see concrete, air and the movement of visitors. Step up to the edge — the dense colored surface breaks back down into individual threads. The work does not illustrate wind; it lets you notice its slight presence.",
+    "collection": "space",
+    "artist": "PROEM Studio · concept",
+    "year": "2026",
+    "tags": [
+      "Textile",
+      "Between States"
+    ],
+    "sourceUrl": null,
+    "rights": "AI-generated original project concept",
+    "isFictional": true
+  },
+  {
+    "id": "work-acrylic",
+    "title": "Five Mismatches",
+    "material": "Colored and frosted acrylic, clear supports",
+    "dimensions": "Five planes of different sizes; spatial concept",
+    "category": "Object",
+    "images": [
+      "05-room02-acrylic"
+    ],
+    "room": "02",
+    "hoverText": "Color spills beyond the object and stays on the floor.",
+    "description": "Five transparent and frosted surfaces stand apart, yet their fields of color overlap. Each plane has its own height and proportion; one has a round opening. As you change your point of view, a stable order turns into a new composition. Look not only at the panels but at the shadows between them: part of the work is where there is no object at all.",
+    "collection": "space",
+    "artist": "PROEM Studio · concept",
+    "year": "2026",
+    "tags": [
+      "Object",
+      "Between States"
+    ],
+    "sourceUrl": null,
+    "rights": "AI-generated original project concept",
+    "isFictional": true
+  },
+  {
+    "id": "work-ceramics",
+    "title": "Seven Voices",
+    "material": "Ceramics, glazes, terracotta",
+    "dimensions": "Seven forms; design height range 10–45 cm",
+    "category": "Object",
+    "images": [
+      "08-ceramic-ensemble"
+    ],
+    "room": "02",
+    "hoverText": "Seven different forms find a shared rhythm without becoming alike.",
+    "description": "A wide cobalt vessel, a slender milk-white bottle, a low red form and four small neighbors gather on one plinth. Differences in height, openings and surfaces create a conversation without a literal plot. Try removing one object in your mind: the whole group changes at once. The dimensions here are a design intention, not a measurement of an existing work.",
+    "collection": "space",
+    "artist": "PROEM Studio · concept",
+    "year": "2026",
+    "tags": [
+      "Object",
+      "Between States"
+    ],
+    "sourceUrl": null,
+    "rights": "AI-generated original project concept",
+    "isFictional": true
+  },
+  {
+    "id": "work-paper",
+    "title": "Fold of Light",
+    "material": "Paper, pigment, wooden frame",
+    "dimensions": "Wall relief; size not fixed in the concept",
+    "category": "Paper",
+    "images": [
+      "09-paper-relief"
+    ],
+    "room": "02",
+    "hoverText": "A white surface becomes three-dimensional through its own shadow.",
+    "description": "A few folds turn a sheet into shallow architecture. A narrow blue stripe gives the eye something to hold on to, but the main action happens in the light facets and shadows. Seen from the side, what looked like a drawn plane reveals its thickness. The work invites you to linger on the difference between color and lighting.",
+    "collection": "space",
+    "artist": "PROEM Studio · concept",
+    "year": "2026",
+    "tags": [
+      "Paper",
+      "Between States"
+    ],
+    "sourceUrl": null,
+    "rights": "AI-generated original project concept",
+    "isFictional": true
+  },
+  {
+    "id": "work-light",
+    "title": "Line of Presence",
+    "material": "Light modules, color filters, space",
+    "dimensions": "Adapts to Room 03",
+    "category": "Light",
+    "images": [
+      "06-room03-light"
+    ],
+    "room": "03",
+    "hoverText": "A boundary appears, though nothing is built between you and the wall.",
+    "description": "A red horizontal crosses the far wall, a white vertical restores the scale of the body, and a blue field changes the sense of depth. There are few elements, but together they assemble a new room inside the existing one. The work uses no strobe. The digital study next to it on this site develops the same theme but is not a physically accurate model of lighting.",
+    "collection": "space",
+    "artist": "PROEM Studio · concept",
+    "year": "2026",
+    "tags": [
+      "Light",
+      "Between States"
+    ],
+    "sourceUrl": null,
+    "rights": "AI-generated original project concept",
+    "isFictional": true
+  },
+  {
+    "id": "cma-143278",
+    "collection": "cabinet",
+    "title": "Composition with Red, Yellow, and Blue",
+    "artist": "Piet Mondrian (Dutch, 1872–1944)",
+    "year": "1927",
+    "material": "oil on canvas",
+    "dimensions": "Framed: 62.2 x 62.6 x 10.8 cm (24 1/2 x 24 5/8 x 4 1/4 in.); Unframed: 49.5 x 49.5 cm (19 1/2 x 19 1/2 in.)",
+    "category": "Painting",
+    "tags": [
+      "Painting",
+      "Origins"
+    ],
+    "images": [
+      "cma-143278"
+    ],
+    "hoverText": "A plane where the distances between colors matter as much as the colors themselves.",
+    "description": "Notice how unequal color fields and black borders hold each other in balance. The work is useful to compare with the transparent panels: in painting the boundary is fixed; in the installation it shifts with your point of view.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1967.215",
+    "rights": "CC0",
+    "credit": "Contemporary Collection of The Cleveland Museum of Art",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1967.215",
+    "isFictional": false
+  },
+  {
+    "id": "cma-156570",
+    "collection": "cabinet",
+    "title": "Composition",
+    "artist": "Otto Freundlich (German, 1878–1943)",
+    "year": "1924",
+    "material": "pastel",
+    "dimensions": "Overall: 74.6 x 53.8 cm (29 3/8 x 21 3/16 in.)",
+    "category": "Painting",
+    "tags": [
+      "Painting",
+      "Origins"
+    ],
+    "images": [
+      "cma-156570"
+    ],
+    "hoverText": "Composition as a collision of rhythms, not a window onto a familiar landscape.",
+    "description": "Start with the direction of the large forms, then follow the transitions between them. What is worth comparing here is not the objects depicted but how tension is distributed across the surface. This is an editorial note by the project, not a quote from the artist.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1992.277",
+    "rights": "CC0",
+    "credit": "Bequest of Lockwood Thompson",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1992.277",
+    "isFictional": false
+  },
+  {
+    "id": "cma-715339",
+    "collection": "cabinet",
+    "title": "Still Life",
+    "artist": "María Blanchard (Spanish, 1881–1932)",
+    "year": "c. 1916",
+    "material": "oil, sand, and mixed media collage on canvas",
+    "dimensions": "65.8 x 52.4 cm (25 7/8 x 20 5/8 in.)",
+    "category": "Painting",
+    "tags": [
+      "Painting",
+      "Origins"
+    ],
+    "images": [
+      "cma-715339"
+    ],
+    "hoverText": "A still life that invites you to reassemble familiar objects.",
+    "description": "Try to find the main directions of the composition before recognizing individual things. The image can be read as a system of neighbors — much as a group of ceramic forms changes the character of each vessel.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/2026.37",
+    "rights": "CC0",
+    "credit": "Partial purchase from the J. H. Wade Fund and partial gift of Mr. and Mrs. Maurice Saltzman, by exchange",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "2026.37",
+    "isFictional": false
+  },
+  {
+    "id": "cma-144705",
+    "collection": "cabinet",
+    "title": "Carnival in the Snow",
+    "artist": "Paul Klee (German, 1879–1940)",
+    "year": "1923",
+    "material": "watercolor",
+    "dimensions": "Sheet: 24 x 23.5 cm (9 7/16 x 9 1/4 in.); Secondary Support: 34.5 x 29.3 cm (13 9/16 x 11 9/16 in.)",
+    "category": "Graphic art",
+    "tags": [
+      "Graphic art",
+      "Origins"
+    ],
+    "images": [
+      "cma-144705"
+    ],
+    "hoverText": "Color and sign let you sense space without detailed description.",
+    "description": "In this small work you can linger on the relationships between colored areas and fine marks. Notice how many events fit into a compact image; digital enlargement does not change the physical scale of the original.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1969.46",
+    "rights": "CC0",
+    "credit": "Contemporary Collection of The Cleveland Museum of Art",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1969.46",
+    "isFictional": false
+  },
+  {
+    "id": "cma-137078",
+    "collection": "cabinet",
+    "title": "With the Dot",
+    "artist": "Paul Klee (German, 1879–1940)",
+    "year": "1916",
+    "material": "pen and black ink",
+    "dimensions": "Sheet: 12.4 x 14.5 cm (4 7/8 x 5 11/16 in.); Secondary Support: 12.4 x 14.5 cm (4 7/8 x 5 11/16 in.); Tertiary Support: 24.4 x 31.9 cm (9 5/8 x 12 9/16 in.)",
+    "category": "Graphic art",
+    "tags": [
+      "Graphic art",
+      "Origins"
+    ],
+    "images": [
+      "cma-137078"
+    ],
+    "hoverText": "A dot can be a stop, a beginning, or a reason to follow the line.",
+    "description": "Look at the movement of the pen and the distribution of empty areas. Compare this work with the digital lines of attention: on paper the trace is already fixed; in the interface it changes along with the elements.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1961.50",
+    "rights": "CC0",
+    "credit": "Contemporary Collection of The Cleveland Museum of Art",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1961.50",
+    "isFictional": false
+  },
+  {
+    "id": "cma-138684",
+    "collection": "cabinet",
+    "title": "Little Dance",
+    "artist": "Kurt Schwitters (German, 1887–1948)",
+    "year": "1920",
+    "material": "collage",
+    "dimensions": "Sheet: 13.1 x 10.4 cm (5 3/16 x 4 1/8 in.); Mounted: 23 x 17 cm (9 1/16 x 6 11/16 in.)",
+    "category": "Paper",
+    "tags": [
+      "Paper",
+      "Origins"
+    ],
+    "images": [
+      "cma-138684"
+    ],
+    "hoverText": "A small collage keeps a sense of movement between separate fragments.",
+    "description": "Look at how edges and gaps sit next to each other. The fragments do not have to depict a dance literally to set a rhythm for the eye. Paper is interesting here as the structural material of the image.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1963.1",
+    "rights": "CC0",
+    "credit": "Contemporary Collection of The Cleveland Museum of Art",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1963.1",
+    "isFictional": false
+  },
+  {
+    "id": "cma-159216",
+    "collection": "cabinet",
+    "title": "Merz 3 Portfolio:  Plate 1",
+    "artist": "Kurt Schwitters (German, 1887–1948)",
+    "year": "1923",
+    "material": "lithograph",
+    "dimensions": null,
+    "category": "Graphic art",
+    "tags": [
+      "Graphic art",
+      "Origins"
+    ],
+    "images": [
+      "cma-159216"
+    ],
+    "hoverText": "A printed sheet can be read as an architecture of directions and pauses.",
+    "description": "Try moving your eye along the large boundaries, then return to the small details. The link to the PROEM exhibition lies in building a whole from elements that keep their own character.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1995.4",
+    "rights": "CC0",
+    "credit": "Dudley P. Allen Fund",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1995.4",
+    "isFictional": false
+  },
+  {
+    "id": "cma-161433",
+    "collection": "cabinet",
+    "title": "Play with Heads",
+    "artist": "Oskar Schlemmer (German, 1888–1943)",
+    "year": "1923",
+    "material": "lithograph",
+    "dimensions": "Overall: 49 x 33.6 x 7 cm (19 5/16 x 13 1/4 x 2 3/4 in.)",
+    "category": "Graphic art",
+    "tags": [
+      "Graphic art",
+      "Origins"
+    ],
+    "images": [
+      "cma-161433"
+    ],
+    "hoverText": "The head becomes an element in a graphic game of repetition and change.",
+    "description": "Notice how the human form turns into signs and their arrangement. It is a good occasion to compare the expressiveness of a silhouette with the color and texture of a small object.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/2000.120",
+    "rights": "CC0",
+    "credit": "John L. Severance Fund",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "2000.120",
+    "isFictional": false
+  },
+  {
+    "id": "cma-138860",
+    "collection": "cabinet",
+    "title": "Allo Paris:  Frontispiece to book",
+    "artist": "Robert Delaunay (French, 1885–1941)",
+    "year": "1926",
+    "material": "lithograph",
+    "dimensions": null,
+    "category": "Graphic art",
+    "tags": [
+      "Graphic art",
+      "Origins"
+    ],
+    "images": [
+      "cma-138860"
+    ],
+    "hoverText": "A frontispiece is a way into a book that can also be read as a composition in its own right.",
+    "description": "What matters here is the format of the opening sheet itself: it begins a sequence but remains a separate image. Compare it with an exhibition title, which sets the pace before you meet the works.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1963.234",
+    "rights": "CC0",
+    "credit": "Gift of The Print Club of Cleveland",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1963.234",
+    "isFictional": false
+  },
+  {
+    "id": "cma-155039",
+    "collection": "cabinet",
+    "title": "La Tour",
+    "artist": "Robert Delaunay (French, 1885–1941)",
+    "year": "1926",
+    "material": "lithograph",
+    "dimensions": null,
+    "category": "Graphic art",
+    "tags": [
+      "Graphic art",
+      "Origins"
+    ],
+    "images": [
+      "cma-155039"
+    ],
+    "hoverText": "A vertical gathers graphic directions around itself.",
+    "description": "Try following the repetitions and slants rather than just recognizing the tower motif. Geometry can convey movement even on a still sheet.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1989.59",
+    "rights": "CC0",
+    "credit": "John L. Severance Fund",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1989.59",
+    "isFictional": false
+  },
+  {
+    "id": "cma-136519",
+    "collection": "cabinet",
+    "title": "Mask of the Japanese Actress Hanako (Ohta Hisa)",
+    "artist": "Auguste Rodin (French, 1840–1917)",
+    "year": "1908 (?)",
+    "material": "bronze",
+    "dimensions": "Overall: 17.6 x 11.8 x 9 cm (6 15/16 x 4 5/8 x 3 9/16 in.)",
+    "category": "Sculpture",
+    "tags": [
+      "Sculpture",
+      "Origins"
+    ],
+    "images": [
+      "cma-136519"
+    ],
+    "hoverText": "A small bronze mask holds the expressiveness of a face in volume.",
+    "description": "The scale of this work matters: this is a small object, not a monument. Notice how side lighting makes the surface and its hollows part of the expression. The museum date includes a question mark, and it is kept here.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1960.90",
+    "rights": "CC0",
+    "credit": "Gift of Carrie Moss Halle in memory of Salmon Portland Halle",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1960.90",
+    "isFictional": false
+  },
+  {
+    "id": "cma-98128",
+    "collection": "cabinet",
+    "title": "Little Brother and Sister",
+    "artist": "Auguste Rodin (French, 1840–1917)",
+    "year": "1916",
+    "material": "marble",
+    "dimensions": "Overall: 56.6 cm (22 5/16 in.)",
+    "category": "Sculpture",
+    "tags": [
+      "Sculpture",
+      "Origins"
+    ],
+    "images": [
+      "cma-98128"
+    ],
+    "hoverText": "Two figures form a shared shape and leave space between them.",
+    "description": "Look at the distances between the bodies and at how the overall silhouette is built from two figures. A reproduction records a single viewpoint; unlike an interactive object on this site, it should not be presented as a full 3D model.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1917.745",
+    "rights": "CC0",
+    "credit": "Gift of Salmon P. Halle",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1917.745",
+    "isFictional": false
+  },
+  {
+    "id": "cma-160027",
+    "collection": "cabinet",
+    "title": "Vase",
+    "artist": "Jean-Charles-Hippolyte-Abel Leger (French); Sèvres Porcelain Factory (French, est. 1756)",
+    "year": "1905",
+    "material": "porcelain",
+    "dimensions": "Overall: 8 cm (3 1/8 in.)",
+    "category": "Object",
+    "tags": [
+      "Object",
+      "Origins"
+    ],
+    "images": [
+      "cma-160027"
+    ],
+    "hoverText": "Eight centimeters can hold complex work of color and surface.",
+    "description": "Compare this small porcelain object with the fictional ensemble “Seven Voices”. The difference in scale and surface character is visible even though the material on screen does not change.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1997.289",
+    "rights": "CC0",
+    "credit": "Gift of Henry H. Hawley",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1997.289",
+    "isFictional": false
+  },
+  {
+    "id": "cma-102980",
+    "collection": "cabinet",
+    "title": "Textile fragment (Binakol)",
+    "artist": "Philippines, Ilokos, Norte Province, Luzon, 20th century(?)",
+    "year": "c. early 1900s(?)",
+    "material": "woven cotton; extended tabby weave",
+    "dimensions": "Overall: 68.6 x 48.3 cm (27 x 19 in.)",
+    "category": "Textile",
+    "tags": [
+      "Textile",
+      "Origins"
+    ],
+    "images": [
+      "cma-102980"
+    ],
+    "hoverText": "A woven rhythm emerges from a real interlacing of threads.",
+    "description": "This is a textile tradition, not a work of European abstraction. The similarity of geometric rhythms can be discussed while respecting the cultural context and the cautious dating of the museum record.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1921.1596",
+    "rights": "CC0",
+    "credit": "Gift of W. A. Price",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1921.1596",
+    "isFictional": false
+  },
+  {
+    "id": "cma-109638",
+    "collection": "cabinet",
+    "title": "Je T'aime (No. 632)",
+    "artist": "Kneeland (Ruzzie) Green (American 1892–1956); Stehli Silks Corporation  (United States; Pennsylvania, Lancaster; and New York, New York, 1840–c. 1955)",
+    "year": "1927",
+    "material": "Silk crepe: plain weave, roller printed",
+    "dimensions": "51.4 x 95.9 cm (20 1/4 x 37 3/4 in.)",
+    "category": "Textile",
+    "tags": [
+      "Textile",
+      "Origins"
+    ],
+    "images": [
+      "cma-109638"
+    ],
+    "hoverText": "The pattern lives on a soft material and changes with the surface.",
+    "description": "Printed silk crepe can be compared with the suspended fabric in the gallery: pattern and color are inseparable from the fiber. It should not be turned into a painting with an invented author.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1928.269",
+    "rights": "CC0",
+    "credit": "Gift of the Stehli Silks Corporation",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1928.269",
+    "isFictional": false
+  },
+  {
+    "id": "cma-146135",
+    "collection": "cabinet",
+    "title": "Movement",
+    "artist": "Umberto Boccioni (Italian, 1882–1916)",
+    "year": "early 1900s",
+    "material": "lithograph",
+    "dimensions": null,
+    "category": "Graphic art",
+    "tags": [
+      "Graphic art",
+      "Origins"
+    ],
+    "images": [
+      "cma-146135"
+    ],
+    "hoverText": "Movement can be found in the very structure of the drawing.",
+    "description": "Notice the sequence of directions and how the eye travels between them. The work can be compared with the digital assembly of the exhibition block, while keeping the difference between an original and a contemporary interpretation.",
+    "room": null,
+    "sourceUrl": "https://clevelandart.org/art/1971.38",
+    "rights": "CC0",
+    "credit": "Gift of Mr. and Mrs. Richard H. Zinser",
+    "museum": "The Cleveland Museum of Art",
+    "accession": "1971.38",
+    "isFictional": false
+  }
+]
